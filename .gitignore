@@ -1,0 +1,5 @@
+sentimental_analysis/classifierdl_xlm_roberta_sentiment_sw/
+sentimental_analysis/stopwords/
+sentimental_analysis/xlm_roberta_base_finetuned_swahili_sw/
+.vscode
+.env
